@@ -1,0 +1,5 @@
+const  productManager= new ProductManager();
+productManager.addProduct({ "id":1"Impresora Hp","Impresora multifuncion 2700",3800,"impresora.jpg","HP2700",2000)}];
+productManager.addProduct({ "id":2"Auriculares gammer","Gammer360 grados",360,"Auriculares.jpg","Sirie780",100)}];
+productManager.addProduct([{ "id":3"Teclado Gammer","Teclado Ultra",500,"Teclado.jpg","Tec548",10)}];
+ 
